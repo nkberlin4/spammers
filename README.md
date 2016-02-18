@@ -51,3 +51,40 @@ pravin@webyog.com
 Surveys spam
 Cloud-Virtual
 surveys@ITSurveying.com
+
+### Alice Brown
+Big Data Academy
+Innovation Enterprise
+abrown@theiegroup.com
+
+### Jordan Dunne
+Global Events Manager
+Innovation Enterprise
++44 207 193 2531
+jordan@theiegroup.com
+
+### Stacy Dryer
+ConformIq
+mailto:stacy.dryer@conformiq.com
+
+### Shirley Lam
+International Events Director
+Innovation Enterprise
++44 207 193 1346
++852 8199 0277
+slam@theiegroup.com
+
+### Jordan Charalampous
+Global Event Executive
+Innovation Enterprise LTD
++44 203 769 7607
+jc@theiegroup.com
+
+### Bas
+XL YOUR MIND
+bas.dohmen@xlyourmind.com
+
+### Roy Asterley
+Innovation Enterprise
+rasterley@theiegroup.com
+

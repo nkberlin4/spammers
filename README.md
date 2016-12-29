@@ -120,3 +120,7 @@ Professional fotos will be made next friday and then it will come on the market,
 Agileforprojects.com    
 Agile & Scrum Consultant     
 cara.ingham@agileforprojects.com    
+
+### Amanda Gregory
+Pmpagilelearning.com    
+amanda.gregory@pmpagilelearning.com    

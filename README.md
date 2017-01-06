@@ -122,10 +122,11 @@ Agile & Scrum Consultant
 cara.ingham@agileforprojects.com    
 
 ### Amanda Gregory
-Pmpagilelearning.com    
-amanda.gregory@pmpagilelearning.com    
+AllSys Software Services Pvt. Ltd    
+amanda.gregory@pmpagilelearning.com  
+  
 
 ### Sharon Mcvey
-Pmptrainingpmi.com    
+AllSys Software Services Pvt. Ltd    
 sharon.mcvey@pmptrainingpmi.com    
 

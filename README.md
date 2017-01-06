@@ -124,3 +124,8 @@ cara.ingham@agileforprojects.com
 ### Amanda Gregory
 Pmpagilelearning.com    
 amanda.gregory@pmpagilelearning.com    
+
+### Sharon Mcvey
+Pmptrainingpmi.com    
+sharon.mcvey@pmptrainingpmi.com    
+

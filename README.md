@@ -130,3 +130,8 @@ amanda.gregory@pmpagilelearning.com
 AllSys Software Services Pvt. Ltd    
 sharon.mcvey@pmptrainingpmi.com    
 
+
+### Francis Logan
+Agileforprojects.com    
+Agile & Scrum Consultant    
+francis.logan@agileforprojects.com    

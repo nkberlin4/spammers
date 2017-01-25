@@ -121,17 +121,36 @@ Agileforprojects.com
 Agile & Scrum Consultant     
 cara.ingham@agileforprojects.com    
 
+### Robyn Jimenez
+Agileforprojects.com    
+Agile & Scrum Consultant     
+robyn.jimenez@agileforprojects.com    
+
 ### Amanda Gregory
 AllSys Software Services Pvt. Ltd    
 amanda.gregory@pmpagilelearning.com  
   
-
 ### Sharon Mcvey
 AllSys Software Services Pvt. Ltd    
 sharon.mcvey@pmptrainingpmi.com    
 
+### Joyce Brown
+AllSys Software Services Pvt. Ltd    
+Joyce.Brown@pmptrainingpmi.com    
+
+### Stacy Ruiz
+AllSys Software Services Pvt. Ltd    
+Stacy.Ruiz@pmptrainingpmi.com    
 
 ### Francis Logan
 Agileforprojects.com    
 Agile & Scrum Consultant    
 francis.logan@agileforprojects.com    
+
+### Helen Brown
+Event Marketing Manager    
+Corporate Parity    
++442 031 291 775    
+www.c-parity.com    
+
+

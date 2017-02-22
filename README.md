@@ -52,33 +52,19 @@ Surveys spam
 Cloud-Virtual    
 surveys@ITSurveying.com    
 
-### Alice Brown
-Big Data Academy    
-Innovation Enterprise    
-abrown@theiegroup.com    
-
-### Jordan Dunne
-Global Events Manager    
+### Alice Brown, Jordan Dunne, Shirley Lam, Jordan Charalampous
 Innovation Enterprise    
 +44 207 193 2531    
++44 207 193 1346    
++44 203 769 7607    
+abrown@theiegroup.com    
 jordan@theiegroup.com    
+slam@theiegroup.com    
+jc@theiegroup.com    
 
 ### Stacy Dryer
 ConformIq    
 stacy.dryer@conformiq.com    
-
-### Shirley Lam
-International Events Director    
-Innovation Enterprise    
-+44 207 193 1346    
-+852 8199 0277    
-slam@theiegroup.com    
-
-### Jordan Charalampous
-Global Event Executive    
-Innovation Enterprise LTD    
-+44 203 769 7607    
-jc@theiegroup.com    
 
 ### Bas
 XL YOUR MIND    
@@ -116,36 +102,26 @@ A recruiter sends an email like that:
 Slightly off-topic question, but we are selling our apartment in Amsterdam New West. It's 110m2, 3 bedroom, garage, 15 mins from the airport, 15 mins from the centre.
 Professional fotos will be made next friday and then it will come on the market, but I thought I'd give you a head's up.
 
-### Cara Ingham
-Agileforprojects.com    
-Agile & Scrum Consultant     
-cara.ingham@agileforprojects.com    
-
-### Robyn Jimenez
+### Robyn Jimenez, Tanya Mccarthy, Patty Murphy, Cara Ingham, Francis Logan
 Agileforprojects.com    
 Agile & Scrum Consultant     
 robyn.jimenez@agileforprojects.com    
+tanya.mccarthy@agilaforprojects.com
+patty.murphy@agilaforprojects.com
+cara.ingham@agileforprojects.com    
+francis.logan@agileforprojects.com    
 
 ### Amanda Gregory
 AllSys Software Services Pvt. Ltd    
 amanda.gregory@pmpagilelearning.com  
   
-### Sharon Mcvey
+### Sharon Mcvey, Alicia Sandoval, Dana Vargas, Joyce Brown, Stacy Ruiz
 AllSys Software Services Pvt. Ltd    
 sharon.mcvey@pmptrainingpmi.com    
-
-### Joyce Brown
-AllSys Software Services Pvt. Ltd    
+alicia.sandoval@pmptrainingpmi.com    
+dana.vargas@pmptrainingpmi.com    
 Joyce.Brown@pmptrainingpmi.com    
-
-### Stacy Ruiz
-AllSys Software Services Pvt. Ltd    
 Stacy.Ruiz@pmptrainingpmi.com    
-
-### Francis Logan
-Agileforprojects.com    
-Agile & Scrum Consultant    
-francis.logan@agileforprojects.com    
 
 ### Helen Brown
 Event Marketing Manager    
@@ -153,4 +129,8 @@ Corporate Parity
 +442 031 291 775    
 www.c-parity.com    
 
+### Stella Nash
+agileprogram.net    
+Training Consultant    
+stella.nash@agileprogram.net    
 

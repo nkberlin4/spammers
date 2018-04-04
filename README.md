@@ -74,12 +74,6 @@ bas.dohmen@xlyourmind.com
 Innovation Enterprise    
 rasterley@theiegroup.com    
 
-### Nikolaos Kapetanis
-Marketing Director    
-fintech:CODE    
-+49(0)305210703–25    
-nikolaos.kapetanis@we-conect.com    
-
 ### Argyle Executive Forum
 cfo.com    
 122 W. 26th St, 2nd Fl.    
